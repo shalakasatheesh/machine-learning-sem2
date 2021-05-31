@@ -1,0 +1,8 @@
+1. Ensemble Methods form a collection of multiple classifiers. What properties (name two of them) should these classifiers have in order to form a good ensemble?
+2. 07_ensembles
+3. What is an idea behind "Injecting randomness"?
+4. Which of the methods are used for combining an ensemble of multiple classifiers:
+
+	stacking, bayesian model averaging
+
+5. According to the definition in Model Combination
